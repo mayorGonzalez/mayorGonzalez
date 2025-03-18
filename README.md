@@ -1,4 +1,4 @@
-## Hola Que Tal? 👋
+## Hola soy Pedro Mayor, Que Tal? 👋
 
 <!--
 **mayorGonzalez/mayorGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
